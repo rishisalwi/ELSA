@@ -3,7 +3,7 @@ Electromagnetic Levitation Stabilization Apparatus
 This project aims to stabilize objects during earthquakes. Four electromagnets act as pillars to levitate a platform based on accelerometer feedback. This keeps the platform flat regardless of any external movement. 
 [Link to Paper](https://docs.google.com/document/d/1mOIRU_LSG2v4BwZsPLvV_79Bib5L9XO0cIummrBaE4U/edit?usp=sharing)
 ## Features
-* Costs less than $150
+* Costs less than $150.00
 * Increases stability by 70%
 * Has various applications in photo and building stabilization
 
